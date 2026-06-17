@@ -1,8 +1,39 @@
-# Awesome Agentic Income [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/hero.svg" alt="Awesome Agentic Income" width="100%">
+</p>
+
+<h1 align="center">Awesome Agentic Income</h1>
+
+<p align="center">
+  <strong>Honest AI-agent income systems where trust is the asset and monetization is downstream of truth.</strong>
+</p>
+
+<p align="center">
+  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge.svg"></a>
+  <a href="LICENSE"><img alt="License: CC0" src="https://img.shields.io/badge/license-CC0-111827.svg"></a>
+  <a href="CONTRIBUTING.md"><img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-16a34a.svg"></a>
+</p>
+
+<p align="center">
+  <a href="#the-method">Method</a> ·
+  <a href="#open-source-engines--templates">Engines</a> ·
+  <a href="#affiliate-programs-that-pay-recurring">Programs</a> ·
+  <a href="#ai-tools-worth-comparing">Comparisons</a> ·
+  <a href="#playbooks--principles">Playbooks</a>
+</p>
 
 > A curated list of tools, affiliate programs, engines, and playbooks for building **honest income systems with AI agents** — where the recommendation is always true and the system earns when readers act on it.
 
 The thesis in one line: the AI tools everyone searches for (ChatGPT, Claude, Midjourney) pay nothing — so rank for them, tell the truth, and route to the adjacent tools that pay recurring. Trust is the asset; the link is downstream.
+
+## Operating Standard
+
+| Principle | Standard |
+| --- | --- |
+| Truth first | The recommended answer must still be correct if every affiliate link is removed. |
+| Recurring over spikes | Favor durable, recurring programs over shallow one-time payouts. |
+| Own the audience | SEO traffic should become a trusted list, workflow, or reusable engine. |
+| Automate carefully | Agents can research, compare, audit, and update, but claims still need human accountability. |
 
 ## Contents
 
