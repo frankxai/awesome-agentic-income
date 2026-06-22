@@ -1,6 +1,16 @@
+<!-- GITHUB_VISUALS_START -->
 <p align="center">
-  <img src="assets/hero.svg" alt="Awesome Agentic Income" width="100%">
+  <img src="assets/github/header.svg" alt="Awesome Agentic Income - Curated map of honest agentic income systems" width="100%">
 </p>
+
+<details open>
+<summary><strong>How this repo works</strong></summary>
+<p align="center">
+  <img src="assets/github/how-it-works.svg" alt="Awesome Agentic Income operating map" width="100%">
+</p>
+</details>
+
+<!-- GITHUB_VISUALS_END -->
 
 <h1 align="center">Awesome Agentic Income</h1>
 
