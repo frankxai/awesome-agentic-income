@@ -85,7 +85,7 @@ The spine of a passive-income content site: programs where commissions compound 
 | [CapCut](https://www.capcut.com/partners/affiliate-program) | Creator stack | up to 35% | Recurring | Massive install base, easy convert. |
 | [ElevenLabs](https://elevenlabs.io/affiliates) | Voice | 22% | 12-month | Long 90-day cookie + viral demos. |
 | [Copy.ai](https://www.copy.ai/affiliate) | Writing | 45% (year 1) | Year-1 | Highest writing-tool rate, no traffic minimum. |
-| [Writesonic](https://writesonic.com/partners) | Writing | 30–40% | Lifetime | Lifetime recurring is the hook. |
+| [Writesonic](https://writesonic.com/affiliate-program) | Writing | 30–40% | Lifetime | Lifetime recurring is the hook. |
 | [Adobe Firefly](https://www.adobe.com/affiliates.html) | Image | ~30% | Recurring | The way to monetize image-gen posts (Midjourney/FLUX pay nothing). |
 | [Jasper](https://www.jasper.ai/partners) | Writing | up to 30% | Year-1 | Established high-ticket SaaS. |
 | [Descript](https://www.descript.com/affiliate) | Creator stack | 15% | 12-month | The repurposing multiplier. |
