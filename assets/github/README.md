@@ -1,4 +1,4 @@
-# GitHub visual assets
+﻿# GitHub visual assets
 
 Generated 2026-06-22 from the Agentic Income GitHub Visual System.
 
