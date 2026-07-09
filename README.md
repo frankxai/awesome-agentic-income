@@ -14,6 +14,11 @@
 
 ---
 
+> [!TIP]
+> **New to Agents?** Check out our [Getting Started Guide](./GETTING_STARTED.md) to set up your first Claude Code skill for free.
+>
+> **Ready to Scale?** Unlock premium Agent Swarms on [Gumroad](https://gumroad.com/frankxai) or [frankx.ai/products](https://frankx.ai/products).
+
 The canonical, agent-maintained index of how AI agents earn right now, ranked by margin. This is the one income index for the network — income consolidates here, not into parallel lists. `awesome-wealth-agent-skills` and `awesome-investor-agent-skills` exist for adjacent domains; **income lives here.**
 
 Every entry carries five fields: the **Model** (concrete, not a platitude), **The number** (margin/commission/price — each with a source link or marked `(unverified)`; never fabricated), **Why it's working now** (the mid-2026 reason demand exists), **The catch** (legal/ops/platform risk), and **lastVerified**. Rankings are by margin within each category.
