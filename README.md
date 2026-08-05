@@ -25,6 +25,7 @@ Start with customer value, then choose delivery, metering, billing, and attribut
 | [Lago](https://github.com/getlago/lago) | AGPL-3.0 · 10,282★ | Usage-based billing infrastructure. |
 | [Stripe Node](https://github.com/stripe/stripe-node) | MIT · 4,477★ | Official API client; compliance stays human-owned. |
 | [Dub](https://github.com/dubinc/dub) | NOASSERTION · 24,210★ | Disclosed link attribution. |
+| [pay.sh](https://github.com/solana-foundation/pay) | MIT · 1,746★ | Agentic x402/MPP payment CLI; wallet authorization and any settlement remain human-gated. |
 
 ## 6-Pillar curation lens
 
@@ -62,6 +63,6 @@ Open a PR with a primary URL, one-sentence distinct value, current maintenance e
 
 ## Research method
 
-This monthly pulse queried GitHub repository metadata on **2026-08-03** for identity, approximate stars, archived state, activity, and license posture. `NOASSERTION` means GitHub did not return a standard SPDX identifier; review the repository license before adoption. Counts are dated discovery signals, not rankings. Nothing here is financial, legal, medical, or safety advice.
+This monthly pulse queried selected GitHub repository metadata on **2026-08-05** for identity, approximate stars, archived state, activity, and license posture. Earlier rows retain their prior dated snapshots where they were not re-fetched. `NOASSERTION` means GitHub did not return a standard SPDX identifier; review the repository license before adoption. Counts are dated discovery signals, not rankings. Nothing here is financial, legal, medical, or safety advice.
 
-Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-03**.
+Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-05**.
