@@ -66,3 +66,9 @@ Open a PR with a primary URL, one-sentence distinct value, current maintenance e
 This monthly pulse queried selected GitHub repository metadata on **2026-08-05** for identity, approximate stars, archived state, activity, and license posture. Earlier rows retain their prior dated snapshots where they were not re-fetched. `NOASSERTION` means GitHub did not return a standard SPDX identifier; review the repository license before adoption. Counts are dated discovery signals, not rankings. Nothing here is financial, legal, medical, or safety advice.
 
 Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-05**.
+
+---
+
+[![Built on SIP](https://img.shields.io/badge/Built%20on-SIP-blue.svg)](https://github.com/frankxai/Starlight-Intelligence-System)
+
+**Built on SIP** — this repo composes the [Starlight Intelligence Protocol](https://github.com/frankxai/Starlight-Intelligence-System) (substrate for memory, attestation, and sovereignty). Attribution per the SIP sovereignty clause; vertical canon declined.
