@@ -10,6 +10,25 @@ This is an independent, **web-first** catalog. It remains useful if every FrankX
 
 Start with customer value, then choose delivery, metering, billing, and attribution. Humans own pricing, claims, permissions, and spend.
 
+<!-- earned-skill-index:2026-08-30 -->
+
+## Earned agent skills (start here)
+
+Operators get leverage from **about 5–7 named workflows**, not bulk dumps. Hub: [https://github.com/frankxai/awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) · [earned index](https://github.com/frankxai/awesome-hermes-agent-skills/blob/main/docs/EARNED-SKILLS.md) · [safety gate](https://github.com/frankxai/awesome-hermes-agent-skills/blob/main/docs/QUALITY-AND-SAFETY.md).
+
+**Agentic income skills (evidence, not hype)**
+
+| Pack | Job |
+| --- | --- |
+| [awesome-payment-agent-skills](https://github.com/frankxai/awesome-payment-agent-skills) | Mandate-before-settle payment skills |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Scan anything that can spend |
+| [obra/superpowers](https://github.com/obra/superpowers) | Verification before “shipped” claims |
+| [OpenMeter](https://github.com/openmeterio/openmeter) | Cost / unit-economics metering |
+| Wallet/tx marketplace skills | **Quarantine** without dry-run + human gate |
+
+Scan with [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) before a live profile. Do not install unsigned ZIP/S3 skill blobs or OpenClaw mass dumps.
+
+
 ## Peer directories and standards
 
 [openmeterio/openmeter](https://github.com/openmeterio/openmeter) · [getlago/lago](https://github.com/getlago/lago)
