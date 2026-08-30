@@ -46,7 +46,8 @@ Scan with [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) before a
 | [Dub](https://github.com/dubinc/dub) | NOASSERTION · 24,210★ | Disclosed link attribution. |
 | [pay.sh](https://github.com/solana-foundation/pay) | MIT · 1,746★ | Agentic x402/MPP payment CLI; wallet authorization and any settlement remain human-gated. |
 
-## 6-Pillar curation lens
+<details>
+<summary>Editorial curation lens (optional)</summary>
 
 ```mermaid
 mindmap
@@ -67,11 +68,13 @@ mindmap
 
 This lens is editorial, not an endorsement or a claim that a project satisfies every pillar.
 
+</details>
+
 ## Explore the Full FrankX Awesome Ecosystem (optional)
 
 Companion catalogs are optional; the third-party projects above are this list's primary value.
 
-- [awesome-jarvis](https://github.com/frankxai/awesome-jarvis) · [awesome-hermes-agents](https://github.com/frankxai/awesome-hermes-agents) · [awesome-manifestation-skills](https://github.com/frankxai/awesome-manifestation-skills) · [awesome-ai-coe](https://github.com/frankxai/awesome-ai-coe)
+- [awesome-hermes-agents](https://github.com/frankxai/awesome-hermes-agents) · [awesome-manifestation-skills](https://github.com/frankxai/awesome-manifestation-skills) · [awesome-ai-coe](https://github.com/frankxai/awesome-ai-coe)
 - [awesome-agentic-income](https://github.com/frankxai/awesome-agentic-income) · [awesome-investor-agent-skills](https://github.com/frankxai/awesome-investor-agent-skills) · [awesome-design-agent-skills](https://github.com/frankxai/awesome-design-agent-skills) · [awesome-agent-operating-systems](https://github.com/frankxai/awesome-agent-operating-systems)
 - [awesome-music-agent-skills](https://github.com/frankxai/awesome-music-agent-skills) · [awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) · [awesome-gamification-agent-skills](https://github.com/frankxai/awesome-gamification-agent-skills) · [awesome-wealth-agent-skills](https://github.com/frankxai/awesome-wealth-agent-skills)
 - [awesome-mind-agent-skills](https://github.com/frankxai/awesome-mind-agent-skills) · [awesome-cosmos-ai-agents](https://github.com/frankxai/awesome-cosmos-ai-agents) · [awesome-automation-agent-skills](https://github.com/frankxai/awesome-automation-agent-skills) · [awesome-payment-agent-skills](https://github.com/frankxai/awesome-payment-agent-skills) · [awesome-motion-design-agent-skills](https://github.com/frankxai/awesome-motion-design-agent-skills)
@@ -87,6 +90,10 @@ This monthly pulse queried selected GitHub repository metadata on **2026-08-05**
 Maintained as independent, web-first curation by FrankX. Last research pulse: **2026-08-05**.
 
 ---
+
+## License
+
+[CC0 1.0](LICENSE) — dedicated to the public domain.
 
 [![Built on SIP](https://img.shields.io/badge/Built%20on-SIP-blue.svg)](https://github.com/frankxai/Starlight-Intelligence-System)
 
