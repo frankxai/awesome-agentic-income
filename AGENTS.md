@@ -1,13 +1,13 @@
-﻿# Repository Instructions
+# Repository Instructions
 
 This repo is part of the FrankX / Starlight / Arcanea agent estate.
 
 ## Classification
 
-- Repo: $title
-- Class: $Classification
-- Default health command: $HealthCommand
-- Remote: $Remote
+- Repo: awesome-agentic-income
+- Class: public curated list (CC0) — third-party "awesome list" for agentic-income infrastructure
+- Default health command: `pwsh scripts/validate-links.ps1` (see `.github/workflows/validate.yml`)
+- Remote: https://github.com/frankxai/awesome-agentic-income.git
 
 ## Agent Rules
 
@@ -39,4 +39,3 @@ For any site, app, landing page, dashboard, visual identity, brand, motion, medi
 - C:\Users\frank\starlight\repos\VISUAL_QA_GATE.md
 
 When motion, scroll, generated media, GIF/video, or premium polish matters, route through the Motion Design Studio plugin/skills and verify the result visually.
-
