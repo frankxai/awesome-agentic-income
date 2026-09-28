@@ -1,6 +1,6 @@
 # Awesome Agentic Income
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-agentic-income?style=flat)](https://github.com/frankxai/awesome-agentic-income/stargazers) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-agentic-income?style=flat)](https://github.com/frankxai/awesome-agentic-income/commits/main)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Stars](https://img.shields.io/github/stars/frankxai/awesome-agentic-income?style=flat)](https://github.com/frankxai/awesome-agentic-income) [![Last commit](https://img.shields.io/github/last-commit/frankxai/awesome-agentic-income?style=flat)](https://github.com/frankxai/awesome-agentic-income/commits/main)
 
 > Web-first infrastructure for building, measuring, and governing agent-assisted products—without income promises or affiliate funnels.
 
