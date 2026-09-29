@@ -4,10 +4,10 @@ This repo is part of the FrankX / Starlight / Arcanea agent estate.
 
 ## Classification
 
-- Repo: $title
-- Class: $Classification
-- Default health command: $HealthCommand
-- Remote: $Remote
+- Repo: awesome-agentic-income
+- Class: public awesome list (curated resources)
+- Default health command: `pwsh scripts/validate-links.ps1` (local markdown link check; the same script CI runs)
+- Remote: https://github.com/frankxai/awesome-agentic-income.git
 
 ## Agent Rules
 
